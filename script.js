@@ -1,0 +1,1 @@
+var tooltipSpan= document.getElementById('details-box');
