@@ -2,6 +2,9 @@
     width:600px;
     margin:auto;
     height:500px;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
 }
 .container .svg-map{
     width: 100%;
@@ -17,9 +20,6 @@ path{
 }
 
 path:hover{
-    fill:orange !important;
-}
-path:hover,circle:hover{
     stroke:#002868 !important;
     stroke-width: 2px;
     stroke-linejoin: round;
