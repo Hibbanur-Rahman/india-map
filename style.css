@@ -14,7 +14,7 @@
 
 path{
     stroke: white;
-    fill:paleturquoise !important;
+    fill:rgba(146, 194, 245, 0.566) !important;
 
     transition: fill .4s ease;
 }
